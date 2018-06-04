@@ -1,4 +1,5 @@
 ﻿/*
+ Auteur Hugo Delile
 Programme qui calcul la distance entre tous les sens de deux mots.
 Le fichier en entrée est la sortie du programe Distributed Multi-sense Word Embedding (fichier binary embedding)
 
